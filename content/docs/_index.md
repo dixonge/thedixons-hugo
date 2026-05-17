@@ -1,13 +1,14 @@
 ---
 title: "Welcome"
 ---
-![](img/Dixon-Glenn_bendy-1961.jpeg)</br>
+
+![](img/Dixon-Glenn_bendy-1961.jpeg)
+
 *Me in 1961, already looking back*
 
-<hr>
-FYI, I'm a bit older now:
-
 ![](img/avatar-bw.jpeg)
+
+*FYI, I'm a bit older now*
 
 My name is Glenn Dixon, and I have been researching my family history since 1998. I am deeply indebted to my mother, Millie, who used to interview relatives in the late 1950s and early 1960s every time we vacationed in either Iowa or North Carolina. I am also very lucky to have run into Pat Hageman who was managing the Moultrie County, IL USGenWeb site and who graciously sent me paperwork connecting my Paternal family tree from the mid-1800s in Illinois all the way back to the early 1600s in Ireland. Yes, I got very lucky!
 
