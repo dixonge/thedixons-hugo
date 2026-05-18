@@ -4,7 +4,7 @@ Title: Dixon-Wilson House
 
 ## Dixon-Wilson House
 
-![](../../img/Dixon-Wilson-House.jpg)
+![](../../../img/Dixon-Wilson-House.jpg)
 *Dixon-Wilson house, Delaware*
 
 Another son of William Dixon and Ann Gregg Dixon Houghton was John Dixon. John's brother Henry Dixon built the Dixon-Jackson House. John built a home around 1732 west of Henry's home. This home, now known as the Dixon-Wilson House, is on Valley Road southwest of Henry's house.

@@ -1,7 +1,7 @@
 ---
 Title: Nichols House
 ---
-![](../../img/nichols-house-marker.jpg)
+![](../../../img/nichols-house-marker.jpg)
 *Nichols house, Delaware*
 
 This house is tied to other Dixon homes in the area, and had some interesting ties to historical events in the Revolutionary War, as mentioned in the historical marker above.

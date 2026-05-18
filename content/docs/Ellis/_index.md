@@ -4,7 +4,7 @@ Title: The Ellis Family
 
 ## Celia Lorena Ellis
 
-![](../../img/Peterson-David_Ellis-Lorena.jpg)
+![](../../../img/Peterson-David_Ellis-Lorena.jpg)
 *David Peterson and Celia Lorena Ellis*
 
 My maternal grandmother, Celia Lorena Ellis, who went by Lorena, was born near Shelby in Cleveland County, North Carolina on Feb. 20, 1905. Given that her appearance in the first two census' of her life were both in a part of Township 3 (referred to as 'Rippys'), she may have been born there instead. But the whole township is just south of Shelby, and includes Earl and Patterson Springs. Rippys is more of a substitute name for Township 3, probably named so due to the many Rippy/Rippey families in the area.

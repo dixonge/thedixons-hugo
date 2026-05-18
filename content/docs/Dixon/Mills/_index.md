@@ -2,7 +2,7 @@
 Title: "Dixon Mills Across America"
 linkTitle: "Dixon Mills"
 ---
-![](../../img/tick-creek.png)
+![](../../../img/tick-creek.png)
 *Cropped map of the Tick Creek area in Chatham County, North Carolina*
 Revised July 1, 2018
 

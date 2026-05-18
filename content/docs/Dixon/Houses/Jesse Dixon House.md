@@ -6,7 +6,7 @@ Title: Jesse Dixon House
 
 Revised 2024-11-26
 
-![](../../img/dixon-dowd-house.png)
+![](../../../img/dixon-dowd-house.png)
 
 *Jesse Dixon House, North Carolina*
 

@@ -1,12 +1,12 @@
 ---
 Title: Dixon-Jackson House
 ---
-![](../../img/Dixon-Jackson-House.jpg)
+![](../../../img/Dixon-Jackson-House.jpg)
 *the Dixon-Jackson house in Delaware*
 
 Henry Dixon, son of the immigrant William Dixon, purchased two hundred acres in Mill Creek Hundred in 1726, at the age of 34. He built a one-room log house on his property in what is now northern Delaware. When he passed away in 1742 it was inherited by his son, Samuel Dixon, who later sold it in 1771 before moving to Fayette County in southwest Pennsylvania.
 
-![](../../img/Dixon-Jackson-House-Floor-Plan.jpg)
+![](../../../img/Dixon-Jackson-House-Floor-Plan.jpg)
 *Dixon-Jackson House Floor Plan*
 
 The Dixons who built and lived in this house:
@@ -18,13 +18,13 @@ The new owner in 1771, James Jackson, expanded the house at least twice. His son
 
 It is currently in use as a Chiropractor/massage therapist office.
 
-![](../../img/Dixon-Jackson-House-Aerial.jpg)
+![](../../../img/Dixon-Jackson-House-Aerial.jpg)
 
 *Dixon-Jackson House aerial view*
 
 Current Google Street View screenshot:
 
-![](../../img/Screenshot_20180708_165427.png)
+![](../../../img/Screenshot_20180708_165427.png)
 *Current Google Street View screenshot of the Dixon-Jackson House*
 
-For more information, visit the [Mill Creek Hundred History Blog](http://mchhistory.blogspot.com/2011/01/dixon-jackson-house.html). You can also read this detailed [Architectural Description and Statement of Significance](../../img/Dixon-Jackson-House.pdf) prepared in 2000 by the Center for Historic Architecture and Design at the University of Delaware.
+For more information, visit the [Mill Creek Hundred History Blog](http://mchhistory.blogspot.com/2011/01/dixon-jackson-house.html). You can also read this detailed [Architectural Description and Statement of Significance](../../../img/Dixon-Jackson-House.pdf) prepared in 2000 by the Center for Historic Architecture and Design at the University of Delaware.
