@@ -11,8 +11,7 @@ Henry Dixon, son of the immigrant William Dixon, purchased two hundred acres in 
 
 The Dixons who built and lived in this house:
 
-<iframe width="400" height="804" src="https://www.WikiTree.com/treewidget/Dixon-1143/1" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-*embeddable family tree updated live from WikiTree*
+![](../../../img/Samuel-Dixon_Henry-Dixon.png)
 
 The new owner in 1771, James Jackson, expanded the house at least twice. His son, Thomas Jackson, inherited the home in 1818 and gave the home a final expansion at some point in 1822, removing the remains of the log house from the interior. A later owner added the front porch.
 
