@@ -43,3 +43,8 @@ security:
       allowAddons: true
       allowChildProcess: true
       --allow-fs-read: "*"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
