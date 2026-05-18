@@ -1,5 +1,6 @@
 ---
-Title: Jesse Dixon Mill - Napton, North Carolina
+Title: "Jesse Dixon Mill - Napton, North Carolina"
+linkTitle: "Napton"
 ---
 ## Jesse Dixon Mill - Napton, North Carolina 
 

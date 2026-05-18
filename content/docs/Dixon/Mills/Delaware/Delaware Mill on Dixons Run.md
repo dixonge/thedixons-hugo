@@ -1,5 +1,6 @@
 ---
 Title: "Delaware Mill on Dixon's Run"
+linkTitle: "Dixon's Run"
 ---
 
 ## Delaware Mill on Dixon's Run 

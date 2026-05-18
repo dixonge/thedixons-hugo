@@ -1,5 +1,6 @@
 ---
-Title: Dixon Mill - Salt Creek - Londonderry, Ross County, Ohio
+Title: "Dixon Mill - Salt Creek - Londonderry, Ross County, Ohio"
+linkTitle: "Salt Creek"
 ---
 ![](../../../img/dixon-mill-1908.jpg)
 *Dixon Mill - Salt Creek - Londonderry, Ross County, Ohio - photo taken 1908*

@@ -1,5 +1,6 @@
 ---
-Title: Richmond Dale Grist Mill
+Title: "Richmond Dale Grist Mill"
+linkTitle: "Richmond Dale"
 ---
 
 ![](../../../img/RichmondDale%20Mill.4.jpg)

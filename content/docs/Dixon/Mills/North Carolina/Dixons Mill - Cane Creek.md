@@ -1,5 +1,6 @@
 ---
-Title: Dixon's Mill - Cane Creek, North Carolina
+Title: "Dixon's Mill - Cane Creek, North Carolina"
+linkTitle: "Cane Creek"
 ---
 ## Dixon's Mill - Cane Creek, North Carolina 
 

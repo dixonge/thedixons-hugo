@@ -1,5 +1,6 @@
 ---
-Title: Dixon's Mill - South of Minford, OH
+Title: "Dixon's Mill - Minford, OH"
+linkTitle: "Minford"
 ---
 > Often linked to Sciotoville or Portsmouth
 
