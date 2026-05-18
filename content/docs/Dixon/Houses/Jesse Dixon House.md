@@ -13,7 +13,7 @@ Revised 2024-11-26
 💡 Originally written by Edwin Patterson - reproduced here since the original site has gone offline. I have done some minor cleanup of typos, added a few notes of correction regarding people and relations, etc.
 
 <video width="400" controls>
-<source src="../../../img/jesse-dixon-house.mp4" title="Jesse Dixon House">
+<source src="img/jesse-dixon-house.mp4" title="Jesse Dixon House">
 </video>
 
 

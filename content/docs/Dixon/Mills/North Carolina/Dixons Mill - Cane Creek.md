@@ -4,7 +4,7 @@ linkTitle: "Cane Creek"
 ---
 ## Dixon's Mill - Cane Creek, North Carolina 
 
-![](../../../img/simon-dixon-mill.jpg)
+![](../../../../img/simon-dixon-mill.jpg)
 
 *Simon Dixon Mill on Cane Creek -- Chatham County, North Carolina*
 
